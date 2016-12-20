@@ -5,7 +5,7 @@
  * Contains \Drupal\Console\Command\Yaml\UpdateValueCommand.
  */
 
-namespace Drupal\Console\Command\Yaml;
+namespace Drupal\Console\Component\Yaml\Command\Yaml;
 
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
